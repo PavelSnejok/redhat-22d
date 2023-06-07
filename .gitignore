@@ -1,0 +1,13 @@
+eks-tf/.terraform.lock.hcl
+eks-tf/.terraform/
+eks-tf/terraform.tfstate
+eks-tf/terraform.tfstate.backup
+
+eks-tf/module/.terraform.lock.hcl
+eks-tf/module/.terraform/
+eks-tf/module/terraform.tfstate
+eks-tf/module/terraform.tfstate.backup
+
+.DS_Store
+
+new.tf
